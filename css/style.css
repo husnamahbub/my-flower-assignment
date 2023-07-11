@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 200px;
+    background-color: #e554731c;
+}
+
+.banner-name{
+    width: 400px;
+}
+.banner-name h1{
+    font-size: 40px;
+}
+.my-button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #E55473;
+    color: white;
+    margin-top: 10px;
+}
+
+.banner-img{
+    width: 300px;
+}
+
+
+.pink{
+    text-align: center;
+    margin-top: 40px;
+}
+.pink h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.pink p{
+    color: gray;
+}
+
+.my-main{
+    display: flex;justify-content: space-around;
+    width: 1100px;
+    margin-left: 200px;
+}
+
+.my-lovely-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e554730f;
+    width: 230px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding: 50px;
+    margin-top: 70px;
+    height: 40vh;
+    
+}
+.my-img{
+    width: 200px;
+}
+.text-lovely{
+ text-align: center;
+ width: 240px;
+}
+u{
+    margin-left: 60px;
+   
+    
+   
+}
+
+.loop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 230px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding: 50px;
+    margin-top: 70px;
+    background-color: #0598a025;
+    height: 40vh;
+}
+.my-pop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 230px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    padding: 50px;
+    margin-top: 70px;
+    background-color: #477d1135;
+    height: 40vh;
+}
+
+.jar{
+    background-color: #e5547310;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+    width: 1100px;
+    margin-left: 200px;
+    padding: 30px;
+}
+
+.sale{
+    text-align: center;
+}
+.sale h1{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.like{
+    color: #E55473;
+}
+
+.pool{
+    color: gray;
+}
+.don{
+    width: 200px;
+}
+
+.flower-insta{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 40vh;
+    margin-top: 40px;
+}
+.img-insta{
+    width: 220px;
+}
+.input-div{
+    text-align: center;
+    padding: 80px;
+}
+.input{
+    padding: 8px 300px;
+    border: 0;
+    margin-top: 20px;
+
+}
+.input-container{
+    background-image: url("../images/Rectangle 9.png");
+    background-repeat: no-repeat;
+    width: 1100px;
+    margin-left: 260px;
+    margin-top: 30px;
+}
+
+footer{
+    background-color: black;
+    margin-top: 50px;
+}
+.footer-link{
+    text-align: center;
+    color: aliceblue;
+    padding: 100px;
+    
+}
+.footer-link h1{
+   font-size: 31px;
+}
+.footer-link p{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
